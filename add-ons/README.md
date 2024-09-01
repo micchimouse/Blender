@@ -4,6 +4,7 @@
 |Add Mesh:Extra Objects|・デフォルトで追加できるオブジェクトを拡張|★★★★★|Free|
 |Add Curve:Extra Objects|・デフォルトで追加できるカーブを拡張|★★★★★|Free|
 |import images as planes|・画像を平面（板ポリゴン）に貼り付けてオブジェクトとして読み込める|★★★★★|Free|
+|[Lazy Shapekeys](https://bookyakuno.booth.pm/items/1936561)|・シェイプキーのフォルダ分け<br>・強制転送・<br>個々に別オブジェクト化するアドオン|-|¥2,500|
 
 
 ## 気になるもの
